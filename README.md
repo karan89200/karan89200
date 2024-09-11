@@ -1,4 +1,4 @@
-# 💻 **Hello, I'm [Your Name]!**  
+# 💻 **Hello, I'm Karan Sharma!**  
 ### 👨‍🎓 BCA - Data Science Student | J.C. Bose University of Science & Technology, YMCA  
 ---
 ![Data Science](https://img.shields.io/badge/Data%20Science-Enthusiast-green) ![Python](https://img.shields.io/badge/Python-Expert-blue) ![Machine%20Learning](https://img.shields.io/badge/Machine%20Learning-Learner-yellow)
