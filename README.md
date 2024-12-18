@@ -1,6 +1,6 @@
-## Hi, I am Prince! Great to see you here! 👋
+## Hi, I am Karan! Great to see you here! 👋
 
-I am a Full Stack Developer with experience building open-source projects. I am a tech enthusiast & an open-source advocate. I am always open to collaborating on projects and innovative/disruptive ideas. Find out more about me & feel free to connect with me here:
+I am a Data Scientist with experience building open-source projects. I am a tech enthusiast & an open-source advocate. I am always open to collaborating on projects and innovative/disruptive ideas. Find out more about me & feel free to connect with me here:
 
 [![Linkedin Badge](https://img.shields.io/badge/-Princesharma-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/prince-sharma-574007239/)](https://www.linkedin.com/in/prince-sharma-574007239/)
 [![Instagram Badge](https://img.shields.io/badge/-prince.sharma-purple?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/four_e_3000)](https://www.instagram.com/four_e_3000)
