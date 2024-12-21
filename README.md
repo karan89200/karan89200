@@ -12,7 +12,6 @@ I am a passionate Data Science student with expertise in Python, machine learnin
 
 ## ⚡ Technologies
 
-### Language :
 ## What I Learned in Data Science
 
 - ![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-10217D?style=flat-square&logo=scikit-learn&logoColor=white) (Supervised, Unsupervised)
