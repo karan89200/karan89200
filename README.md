@@ -7,8 +7,7 @@ I am a passionate Data Science student with expertise in Python, machine learnin
 [![Instagram Badge](https://img.shields.io/badge/-bunk4code-purple?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/bunk4code)](https://www.instagram.com/bunk4code)
 [![Gmail Badge](https://img.shields.io/badge/-myquoraai89200@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:myquoraai89200@gmail.com)](mailto:bunk4cod@gmail.com)
 
-
-[![Prince's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Prince-919&bg_color=0f2d3d&color=1ba5f5&line=1ba5f5&point=1ba5f5&area=true&hide_border=true)](https://github.com/Prince-919)
+[![Karan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=bunk4code&bg_color=0f2d3d&color=1ba5f5&line=1ba5f5&point=1ba5f5&area=true&hide_border=true)](https://github.com/bunk4code)
 
 ## ⚡ Technologies
 
