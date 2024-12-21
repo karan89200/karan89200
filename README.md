@@ -5,7 +5,7 @@ I am a passionate Data Science student with expertise in Python, machine learnin
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/karan-sharma-4723642ab/)
 [![Instagram Badge](https://img.shields.io/badge/-bunk4code-purple?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/bunk4code)](https://www.instagram.com/bunk4code)
-[![Gmail Badge](https://img.shields.io/badge/-bunk4code@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:bunk4code@gmail.com)](mailto:bunk4cod@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-myquoraai89200@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:myquoraai89200@gmail.com)](mailto:bunk4cod@gmail.com)
 
 
 [![Prince's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Prince-919&bg_color=0f2d3d&color=1ba5f5&line=1ba5f5&point=1ba5f5&area=true&hide_border=true)](https://github.com/Prince-919)
@@ -65,4 +65,4 @@ I am a passionate Data Science student with expertise in Python, machine learnin
 
 
 
-On Wed, 18 Dec 2024 at 09:12, Prince Sharma <princesharmabbu0@gmail.com> wrote:
+On THU, 05 Dec 2024 at 7:30, Karan Sharma <myquorai89200@gmail.com> wrote:
