@@ -5,8 +5,8 @@ I am a passionate Data Science student with expertise in Python, machine learnin
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/karan-sharma-4723642ab/)
 [![Instagram Badge](https://img.shields.io/badge/-bunk4code-purple?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/bunk4code)](https://www.instagram.com/bunk4code)
+[![Gmail Badge](https://img.shields.io/badge/-bunk4code@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:bunk4code@gmail.com)](mailto:bunk4cod@gmail.com)
 
-[![Gmail Badge](https://img.shields.io/badge/-princesharmabbu0@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:princesharmabbu0@gmail.com)](mailto:princesharmabbu0@gmail.com)
 [![Portfolio Website Badge](https://img.shields.io/badge/-Portfolio-black?style=flat-square&logo=BioLink&logoColor=white&link=https://prince-sharma-0.netlify.app/)](https://prince-sharma-0.netlify.app/)
 [![Youtube Badge](https://img.shields.io/badge/-Prince%20Sharma-darkred?style=flat-square&logo=youtube&logoColor=white&link=https://www.youtube.com/@princesharma5191)](https://www.youtube.com/@princesharma5191)
 
