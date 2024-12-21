@@ -45,7 +45,7 @@ I am a passionate Data Science student with expertise in Python, machine learnin
 ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
 
-# Tooles I Used:
+## Tools I Used:
 
 <a href="#"><img alt="Jupyter" src="https://img.shields.io/badge/Jupyter%20-%23F37626.svg?logo=jupyter&logoColor=white"></a>
 <a href="#"><img alt="VS Code" src="https://img.shields.io/badge/VS%20Code-%23007ACC.svg?logo=visual-studio-code&logoColor=white"></a>
