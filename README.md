@@ -54,20 +54,15 @@ I am a passionate Data Science student with expertise in Python, machine learnin
 ![Anaconda](https://img.shields.io/badge/Anaconda-44A833?style=flat-square&logo=anaconda&logoColor=white)
 ![Azure](https://img.shields.io/badge/-Microsoft%20Azure-232F7E?style=flat-square&logo=microsoft-azure&logoColor=white)
 
-## 💰 Support
-
-<p>
-<a href='https://ko-fi.com/O4O659E32' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://cdn.ko-fi.com/cdn/kofi4.png?v=2' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
-<a href='https://www.buymeacoffee.com/kaiwalya' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png' border='0' alt='Support Prince on buymecoffee' /></a>
-</p>
 
 ## 📈 Stats
 
 <p align="center">
 
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Prince-919&show_icons=true&theme=tokyonight" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Prince-919&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=bunk4code&show_icons=true&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=bunk4code&theme=tokyonight" />
 </p>
+
 
 
 On Wed, 18 Dec 2024 at 09:12, Prince Sharma <princesharmabbu0@gmail.com> wrote:
