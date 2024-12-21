@@ -59,8 +59,8 @@ I am a passionate Data Science student with expertise in Python, machine learnin
 
 <p align="center">
 
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=bunk4code&show_icons=true&theme=tokyonight" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=bunk4code&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=karan89200&show_icons=true&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=karan89200&theme=tokyonight" />
 </p>
 
 
