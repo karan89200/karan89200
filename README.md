@@ -2,7 +2,8 @@
 
 I am a passionate Data Science student with expertise in Python, machine learning, and exploratory data analysis, working on innovative projects like churn prediction and recommendation systems. I enjoy solving real-world problems and continuously expanding my skills in programming and data analytics.
 
-[![Linkedin Badge](https://www.linkedin.com/in/karan-sharma-4723642ab/)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/karan-sharma-4723642ab/)
 [![Instagram Badge](https://img.shields.io/badge/-prince.sharma-purple?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/four_e_3000)](https://www.instagram.com/four_e_3000)
 [![Gmail Badge](https://img.shields.io/badge/-princesharmabbu0@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:princesharmabbu0@gmail.com)](mailto:princesharmabbu0@gmail.com)
 [![Portfolio Website Badge](https://img.shields.io/badge/-Portfolio-black?style=flat-square&logo=BioLink&logoColor=white&link=https://prince-sharma-0.netlify.app/)](https://prince-sharma-0.netlify.app/)
