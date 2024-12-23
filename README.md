@@ -30,9 +30,7 @@ I am a passionate Data Science student with expertise in Python, machine learnin
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 
 
-### Libraries & Framework :
-
-## Frameworks & Libraries
+## Libraries & Frameworks
 
 ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
