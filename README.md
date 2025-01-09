@@ -1,6 +1,6 @@
 ## Hi, I am Karan! Great to see you here! 👋
 
-I am a passionate Data Science student with expertise in Python, Machine Learning, Deep Learning and exploratory data analysis, working on innovative projects like churn prediction and recommendation systems. I enjoy solving real-world problems and continuously expanding my skills in programming and data analytics.
+I am a passionate Data Science student with expertise in Python, Machine Learning, Deep Learning and exploratory data analysis, working on innovative projects like churn prediction and recommendation systems. I enjoy solving real-world problems and continuously expanding my skills in programming and data science.
 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/karan-sharma-4723642ab/)
